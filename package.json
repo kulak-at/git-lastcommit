@@ -1,0 +1,23 @@
+{
+  "name": "git-lastcommit",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kulak-at/git-lastcommit.git"
+  },
+  "keywords": [
+    "git",
+    "gulp"
+  ],
+  "author": "Kacper Kula",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kulak-at/git-lastcommit/issues"
+  },
+  "homepage": "https://github.com/kulak-at/git-lastcommit#readme"
+}
